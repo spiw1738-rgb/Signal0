@@ -27,8 +27,8 @@
       "stage": "done"
     },
     "5": {
-      "side": -1,
-      "stage": "near"
+      "side": 1,
+      "stage": "entered"
     }
   }
 }
