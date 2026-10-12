@@ -14,8 +14,8 @@
   ],
   "states": {
     "3": {
-      "side": null,
-      "stage": "waiting"
+      "side": 1,
+      "stage": "near"
     }
   }
 }
