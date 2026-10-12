@@ -14,7 +14,7 @@
   ],
   "states": {
     "3": {
-      "side": -1,
+      "side": 1,
       "stage": "entered"
     }
   }
