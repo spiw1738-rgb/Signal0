@@ -27,7 +27,7 @@
       "stage": "done"
     },
     "5": {
-      "side": 1,
+      "side": -1,
       "stage": "entered"
     }
   }
