@@ -40,8 +40,8 @@
       "stage": "done"
     },
     "6": {
-      "side": null,
-      "stage": "waiting"
+      "side": -1,
+      "stage": "near"
     }
   }
 }
