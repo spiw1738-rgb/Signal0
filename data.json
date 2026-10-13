@@ -40,7 +40,7 @@
       "stage": "done"
     },
     "6": {
-      "side": 1,
+      "side": -1,
       "stage": "entered"
     }
   }
