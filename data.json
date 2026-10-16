@@ -53,7 +53,7 @@
       "stage": "done"
     },
     "9": {
-      "side": 1,
+      "side": -1,
       "stage": "entered"
     }
   }
