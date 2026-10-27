@@ -51,7 +51,7 @@
   "states": {
     "10": {
       "side": -1,
-      "stage": "waiting"
+      "stage": "near"
     },
     "4": {
       "side": -1,
