@@ -50,7 +50,7 @@
   ],
   "states": {
     "10": {
-      "side": -1,
+      "side": 1,
       "stage": "entered"
     },
     "4": {
