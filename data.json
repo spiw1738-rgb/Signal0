@@ -51,7 +51,7 @@
   "states": {
     "10": {
       "side": -1,
-      "stage": "entered"
+      "stage": "done"
     },
     "4": {
       "side": -1,
