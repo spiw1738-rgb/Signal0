@@ -1,6 +1,6 @@
 {
-  "next_id": 11,
-  "offset": 357028916,
+  "next_id": 12,
+  "offset": 357028917,
   "positions": [
     {
       "entry": 4170.82,
@@ -46,12 +46,25 @@
       "sl": 4092.66,
       "symbol": "XAUUSD",
       "tp": 4048.75
+    },
+    {
+      "entry": 4032.68,
+      "id": 11,
+      "near": 18.980000000000018,
+      "side": "SELL",
+      "sl": 4051.66,
+      "symbol": "XAUUSD",
+      "tp": 3975.43
     }
   ],
   "states": {
     "10": {
       "side": -1,
       "stage": "done"
+    },
+    "11": {
+      "side": -1,
+      "stage": "waiting"
     },
     "4": {
       "side": -1,
