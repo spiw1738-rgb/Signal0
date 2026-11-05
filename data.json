@@ -102,7 +102,7 @@
       "stage": "waiting"
     },
     "15": {
-      "side": null,
+      "side": 1,
       "stage": "waiting"
     },
     "4": {
