@@ -99,10 +99,10 @@
     },
     "14": {
       "side": 1,
-      "stage": "near"
+      "stage": "waiting"
     },
     "15": {
-      "side": -1,
+      "side": 1,
       "stage": "entered"
     },
     "4": {
