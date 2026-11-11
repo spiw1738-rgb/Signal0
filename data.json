@@ -98,8 +98,8 @@
       "stage": "done"
     },
     "14": {
-      "side": 1,
-      "stage": "near"
+      "side": -1,
+      "stage": "entered"
     },
     "15": {
       "side": 1,
